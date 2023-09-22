@@ -1,2 +1,2 @@
 # My-Resume
-I have created my resume page using HTNL and CSS only.
+I have created my resume page using HTML and CSS only.
