@@ -1,0 +1,162 @@
+
+
+#div1
+{  width: 80%;
+   height: 300px;
+   border: 1px solid;
+   background-color: white;
+   margin:auto;
+	
+}
+ #div1 #table1 #tr1 #th1 #i1
+{
+	width :170px;
+	height :170px;
+	
+	border-radius: 50%;
+	
+	border-color:white;
+}
+
+ #div1 #table1 #tr1 #td2 #div12
+{
+	width: 100%;
+	height: 100%;
+	padding-top:20px;	
+}
+
+#div1 #table3 #trt3 #tdt3 #t3div1
+{
+	width:100%;
+	height:100%;
+	margin:auto;
+background-color:red;	
+}
+
+#div1 #table3 #trt3 #tdt3 #t3div2
+{
+	width:100%;
+	height:100%;
+	background-color:red;	
+}
+
+
+
+
+#div2
+{   display:flex;
+	margin:auto;
+	width:80%;
+	height:1365px;
+	border:solid 1px;
+	
+}
+
+
+#div2 #div21
+{
+	
+	width:50%;
+	height:1365px;
+	border:solid 0px green;
+	margin:20px;
+	
+}
+#div2 #div21 #div211
+{
+
+
+	width:100%;
+	height:600px;
+	border:solid 0px green;
+}
+#div2 #div21 #div212
+{
+
+
+	width:100%;
+	height:600px;
+	border:solid 0px green;
+	text-align: justify;
+}	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+#div2 #div22 
+{
+
+
+	width:50%;
+	height:1365px;
+	border:solid 0px green;
+	margin:20px;
+	
+}
+#div2 #div22 #div221 
+{
+	width:100%;
+	height:300px;
+	border:solid 0px green;
+	
+}
+#div2 #div22 #div222 
+{
+	width:100%;
+	height:300px;
+	border:solid 0px green;
+	
+}
+#div2 #div22 #div223
+{
+	width:100%;
+	height:250px;
+	border:solid 0px green;
+	
+}
+#div2 #div22 #div224
+{   
+   
+	width:100%;
+	height:230px;
+	border:solid 0px green;
+	
+}
+#div2 #div22 #div225
+{
+	width:100%;
+	height:230px;
+	border:solid 0px green;
+	
+}
+.hobbies{
+	border: 2px solid lightgrey;
+	width:100px;
+	padding:5px;
+	border-radius: 20px;
+}
+
+.hobbies-li{
+	margin: 5px;
+	text-align:center;
+}
+
+.skills{
+	border: 1px solid lightgray;
+	padding: 10px;
+	width: 100px;
+	text-align: center;
+	background-color: grey;
+	color: white;
+	border-radius: 20px;
+}
